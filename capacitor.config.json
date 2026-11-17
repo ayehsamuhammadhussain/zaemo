@@ -1,0 +1,7 @@
+{
+  "appId": "com.zaemo.chat",
+  "appName": "ZAEMO",
+  "webDir": "www",
+  "backgroundColor": "#050d0c",
+  "android": { "allowMixedContent": false }
+}
